@@ -1,4 +1,4 @@
-KOSC
+![Alt text](https://github.com/lukasroberts/kosc/blob/master/KOSC/KOSCContent/KOSC%20Content%20Banner.png)
 ====
 
 Kinect to Open Sound Control
