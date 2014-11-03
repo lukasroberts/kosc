@@ -1,0 +1,2 @@
+C:\Users\lukas\Documents\Visual Studio 2010\Projects\KOSC\KOSC\KOSCContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSCContent\obj\x86\Debug\KOSCContent.contentprojResolveAssemblyReference.cache

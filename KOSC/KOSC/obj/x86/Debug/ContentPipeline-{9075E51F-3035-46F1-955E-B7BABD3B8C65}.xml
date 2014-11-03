@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>KOSC Content Banner.png</Source>
+      <Name>KOSC Content Banner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\KOSC Content Banner.xnb</Output>
+      <Time>2012-06-28T11:22:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bone.png</Source>
+      <Name>Bone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\Bone.xnb</Output>
+      <Time>2012-05-10T14:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Joint.png</Source>
+      <Name>Joint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\Joint.xnb</Output>
+      <Time>2012-05-10T14:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Human Rig.png</Source>
+      <Name>Human Rig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\Human Rig.xnb</Output>
+      <Time>2012-07-01T17:47:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>KinectColorVisualizer.fx</Source>
+      <Name>KinectColorVisualizer</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\KinectColorVisualizer.xnb</Output>
+      <Time>2012-05-10T14:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Segoe16.spritefont</Source>
+      <Name>Segoe16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\Segoe16.xnb</Output>
+      <Time>2012-05-10T14:08:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>customFont.spritefont</Source>
+      <Name>customFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\customFont.xnb</Output>
+      <Time>2012-07-07T13:49:52+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9075E51F-3035-46F1-955E-B7BABD3B8C65}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSCContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Lukas\Documents\Visual Studio 2010\Projects\AllVisualStudioProjects\KOSC\KOSC\KOSC\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-12T13:45:27.5021484+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
